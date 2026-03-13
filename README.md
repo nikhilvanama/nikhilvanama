@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working as an Associate Software Engineer
+🔭 I’m currently working as an Web Developer
 
 
 ## 🌐 Socials:
